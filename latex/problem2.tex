@@ -1,0 +1,265 @@
+Normalized number of groups inthe long time limit, $n_k$ satisfies the following difference equation with $k \geq 2$,
+
+\[
+  \frac{
+    n_k
+  }{
+    n_{k-1}
+  }
+  =
+  \frac{
+    (k - 1)(1 - \rho)
+  }{
+    1 + (1 - \rho)k
+  }
+  \addtag
+\]
+
+For $k=1$,
+
+\[
+  n_1
+  =
+  \rho - (1 - \rho) n_1
+  \addtag
+\]
+
+The following steps are to derive the exact solution for $n_k$. The following derivation will use both the gamma function and the beta function with the following definitions,
+
+\[
+  \Gamma(x) = (k - 1)!
+  \addtag
+\]
+
+\[
+  \beta(x, y) =
+  \frac{
+    \Gamma(x) \Gamma(y)
+  }{
+    \Gamma(x + y)
+  }
+  \addtag
+\]
+
+So now simplifying for $n_k$
+
+\[
+  \frac{
+    n_k
+  }{
+    n_{k-1}
+  }
+  =
+  \frac{
+    (k - 1)(1 - \rho)
+  }{
+    1 + (1 - \rho)k
+  }
+  \addtag
+\]
+
+% Starting Recursion
+
+\[
+  n_k
+  =
+  \frac{
+    (k - 1)(1 - \rho)
+  }{
+    1 + (1 - \rho)k
+  }
+  n_{k-1}
+  \addtag
+\]
+
+\[
+  =
+  \left[
+    \frac{
+      (k - 1)(1 - \rho)
+    }{
+      1 + (1 - \rho)k
+    }
+  \right]
+  \left[
+    \frac{
+      (k - 2)(1 - \rho)
+    }{
+      1 + (1 - \rho)(k - 2)
+    }
+  \right]
+  n_{k-2}
+  \addtag
+\]
+
+\[
+  =
+  \left[
+    \frac{
+      (k - 1)(1 - \rho)
+    }{
+      1 + (1 - \rho)k
+    }
+  \right]
+  \left[
+    \frac{
+      (k - 2)(1 - \rho)
+    }{
+      1 + (1 - \rho)(k - 2)
+    }
+  \right]
+  ...
+  n_2
+  n_1
+  \addtag
+\]
+
+\[
+  =
+  \left[
+    \frac{
+      (k - 1)(1 - \rho)
+    }{
+      1 + (1 - \rho)k
+    }
+  \right]
+  \left[
+    \frac{
+      (k - 2)(1 - \rho)
+    }{
+      1 + (1 - \rho)(k - 1)
+    }
+  \right]
+  ...
+  \left[
+    \frac{
+      (2 - 1)(1 - \rho)
+    }{
+      1 + (1 - \rho)(2)
+    }
+  \right]
+  n_1
+  \addtag
+\]
+
+% Solving for the gamma function
+
+\[
+  =
+  \frac{
+    (1 - \rho)^{k - 1}
+  }{
+    (1 - \rho)^{k - 1}
+  }
+  \left[
+    \frac{
+      (k - 1)
+    }{
+      \frac{1}{1 - \rho} + k
+    }
+  \right]
+  \left[
+    \frac{
+      (k - 2)
+    }{
+      \frac{1}{1 - \rho} + (k - 1)
+    }
+  \right]
+  ...
+  \left[
+    \frac{
+      (2 - 1)
+    }{
+      \frac{1}{1 - \rho} + (2)
+    }
+  \right]
+  n_1
+  \addtag
+\]
+
+\[
+  =
+  \Gamma(k)
+  \left[
+    \frac{
+      1
+    }{
+      \frac{1}{1 - \rho} + k
+    }
+  \right]
+  \left[
+    \frac{
+      1
+    }{
+      \frac{1}{1 - \rho} + (k - 1)
+    }
+  \right]
+  ...
+  \left[
+    \frac{
+      1
+    }{
+      \frac{1}{1 - \rho} + (2)
+    }
+  \right]
+  n_1
+  \addtag
+\]
+
+\[
+  n_k
+  =
+  \frac{
+    \Gamma
+    \left(
+      k
+    \right)
+    \Gamma
+    \left(
+      1 - \rho + 1
+    \right)
+  }{
+    \Gamma
+    \left(
+      1 - \rho + 1 + k
+    \right)
+  }
+  n_1
+  \addtag
+\]
+
+\[
+  n_k
+  =
+  \frac{
+    \Gamma
+    \left(
+      k
+    \right)
+    \Gamma
+    \left(
+      \rho
+    \right)
+  }{
+    \Gamma
+    \left(
+      \rho + k
+    \right)
+  }
+  n_1
+  \addtag
+\]
+
+% Applying the beta function
+
+\[
+  n_k
+  = 
+  \beta
+  \left(
+    k,
+    \rho
+  \right)
+  n_1
+  \addtag
+\]
