@@ -11,9 +11,9 @@ main = function() {
   zipf_p0_001 = richGetRicherSimulations(population_count, simulations, 0.1)
 
 
-  plotZipfDistribution(zipf_p0_1, 0.1, "Problem1_p0_1.png")
-  plotZipfDistribution(zipf_p0_01, 0.01, "Problem1_p0_01.png")
-  plotZipfDistribution(zipf_p0_001, 0.001, "Problem1_p0_001.png")
+  plotZipfDistribution(zipf_p0_1, 0.1, "images/Problem1_p0_1.png")
+  plotZipfDistribution(zipf_p0_01, 0.01, "images/Problem1_p0_01.png")
+  plotZipfDistribution(zipf_p0_001, 0.001, "images/Problem1_p0_001.png")
 }
 
 richGetRicherPopulation = function(population_count, mutation_probability) {
