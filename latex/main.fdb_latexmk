@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1537999774 "c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex" "main.pdf" "main" 1537999775
+["pdflatex"] 1538138564 "c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex" "main.pdf" "main" 1538138565
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,18 +58,16 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty" 1489934432 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1514486332 4061335 96449ee71f660f8b5c9977a25234aff8 ""
   "C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1514486309 80423 3cfba73105275d3ad410701d89fbdf7a ""
-  "c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex" 1537990435 1128 b6b61364dae68eaf6da54ead6e471227 ""
-  "main.aux" 1537999775 585 6cec766eb4b94e3e0794d9787f8f4b1e ""
-  "main.tex" 1537990435 1128 b6b61364dae68eaf6da54ead6e471227 ""
+  "c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex" 1538138562 1044 d991dc8231e2212f8d26d566a60c2b63 ""
+  "main.aux" 1538138565 441 30ebe2ee412dadb678bd3bf3ff37fcf2 ""
+  "main.tex" 1538138562 1044 d991dc8231e2212f8d26d566a60c2b63 ""
   "problem1.tex" 1537991717 32 bd691eb1d38b7d509938f7af58dea23d ""
   "problem2.tex" 1537995141 3074 64f5f0f9f7d0903ba22587ecd1eca8f5 ""
   "problem3.tex" 1537995791 850 1b93788d8671d1f0ecc170913b6f5f1a ""
   "problem4.tex" 1537999773 2060 5dbd4a5e670f0ee6d35fa4e312f18449 ""
   "problem5.tex" 1537990762 0 d41d8cd98f00b204e9800998ecf8427e ""
   "problem6.tex" 1537990765 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "problem7.tex" 1537990770 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "problem8.tex" 1537990772 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "main.log"
   "main.aux"
   "main.pdf"
+  "main.log"
