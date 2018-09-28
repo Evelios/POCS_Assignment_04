@@ -1,0 +1,67 @@
+Here I am using the Hurwitz Zeta Function,
+\[
+  \zeta
+  \left(
+    s, q
+  \right)
+  =
+  \sum_{n = 0}^{\infty}
+  \frac{1}{(q + n)^s}
+\]
+
+Trying to estimate the minimum of the largest sample in the network.
+
+\[
+  P_k =
+  c k^{-\gamma}
+  \addtag
+\]
+
+\[
+  \sum_{k = min \, k_{max}}^{\infty}
+  P_k
+  =
+  \frac{1}{N}
+  \addtag
+\]
+
+\[
+  \sum_{k = min \, k_{max}}^{\infty}
+  c k^{-\gamma}
+  =
+  \frac{1}{N}
+  \addtag
+\]
+
+\[
+  c
+  \sum_{k = min \, k_{max}}^{\infty}
+  \frac{1}{k^{\gamma}}
+  =
+  \frac{1}{N}
+  \addtag
+\]
+
+\[
+  c
+  \sum_{k = 0}^{\infty}
+  \frac{1}{
+    \left(
+      (min \, k_{max}) + k
+    \right)^{\gamma}
+  }
+  =
+  \frac{1}{N}
+  \addtag
+\]
+
+\[
+  c \,
+  \zeta
+  \left(
+    \gamma, min \, k_{max}
+  \right)
+  =
+  \frac{1}{N}
+  \addtag
+\]
