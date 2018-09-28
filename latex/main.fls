@@ -86,12 +86,27 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
 INPUT problem1.tex
 INPUT problem1.tex
-INPUT problem2.tex
-INPUT problem2.tex
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
 OUTPUT main.pdf
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
 INPUT C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT ../images/Problem1_p0_001.png
+INPUT ../images/Problem1_p0_001.png
+INPUT ../images/Problem1_p0_001.png
+INPUT ../images/Problem1_p0_001.png
+INPUT ../images/Problem1_p0_001.png
+INPUT problem2.tex
+INPUT problem2.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT problem3.tex
 INPUT problem3.tex
 INPUT problem4.tex
@@ -100,6 +115,41 @@ INPUT problem5.tex
 INPUT problem5.tex
 INPUT problem6.tex
 INPUT problem6.tex
+INPUT ../images/Problem6_10^1.png
+INPUT ../images/Problem6_10^1.png
+INPUT ../images/Problem6_10^1.png
+INPUT ../images/Problem6_10^1.png
+INPUT ../images/Problem6_10^1.png
+INPUT ../images/Problem6_10^2.png
+INPUT ../images/Problem6_10^2.png
+INPUT ../images/Problem6_10^2.png
+INPUT ../images/Problem6_10^2.png
+INPUT ../images/Problem6_10^2.png
+INPUT ../images/Problem6_10^3.png
+INPUT ../images/Problem6_10^3.png
+INPUT ../images/Problem6_10^3.png
+INPUT ../images/Problem6_10^3.png
+INPUT ../images/Problem6_10^3.png
+INPUT ../images/Problem6_10^4.png
+INPUT ../images/Problem6_10^4.png
+INPUT ../images/Problem6_10^4.png
+INPUT ../images/Problem6_10^4.png
+INPUT ../images/Problem6_10^4.png
+INPUT ../images/Problem6_10^5.png
+INPUT ../images/Problem6_10^5.png
+INPUT ../images/Problem6_10^5.png
+INPUT ../images/Problem6_10^5.png
+INPUT ../images/Problem6_10^5.png
+INPUT ../images/Problem6_10^6.png
+INPUT ../images/Problem6_10^6.png
+INPUT ../images/Problem6_10^6.png
+INPUT ../images/Problem6_10^6.png
+INPUT ../images/Problem6_10^6.png
+INPUT ../images/Problem6_average_max.png
+INPUT ../images/Problem6_average_max.png
+INPUT ../images/Problem6_average_max.png
+INPUT ../images/Problem6_average_max.png
+INPUT ../images/Problem6_average_max.png
 INPUT main.aux
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb

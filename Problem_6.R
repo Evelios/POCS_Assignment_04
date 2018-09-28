@@ -98,7 +98,7 @@ plotMaxSamples = function(max_samples_df) {
 
   ggplot(max_samples_df,
        aes(x=log_sample_size, y=log_max_sample)) +
-  labs(title='Average Kmax for n=1000 sample sets',
+  labs(title='Average Kmax for n=1000 sample sets  ',
        x='Log10 Sample Size',
        y='Log10 Avg Kmax') +
   geom_point()
