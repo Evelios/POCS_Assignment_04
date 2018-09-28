@@ -3,12 +3,12 @@
 library(tidyverse)
 
 main = function() {
-  population_count = 10000
-  simulations = 10
+  population_count = 20000
+  simulations = 100
 
   zipf_p0_1 = richGetRicherSimulations(population_count, simulations, 0.1)
-  zipf_p0_01 = richGetRicherSimulations(population_count, simulations, 0.1)
-  zipf_p0_001 = richGetRicherSimulations(population_count, simulations, 0.1)
+  zipf_p0_01 = richGetRicherSimulations(population_count, simulations, 0.01)
+  zipf_p0_001 = richGetRicherSimulations(population_count, simulations, 0.001)
 
 
   plotZipfDistribution(zipf_p0_1, 0.1, "images/Problem1_p0_1.png")
