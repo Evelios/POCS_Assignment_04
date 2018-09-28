@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.28)  28 SEP 2018 09:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.28)  28 SEP 2018 15:41
 entering extended mode
 **c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex
 (c:/Users/IBM_ADMIN/Documents/POCS_Assignment_04/latex/main.tex
@@ -512,109 +512,131 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) (problem1.tex
-<../images/Problem1_p0_1.png, id=1, 289.08pt x 252.945pt>
-File: ../images/Problem1_p0_1.png Graphic file (type png)
-<use ../images/Problem1_p0_1.png>
-Package pdftex.def Info: ../images/Problem1_p0_1.png  used on input line 1. on 
-input line 1.
-Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
-e 1.
-<../images/Problem1_p0_01.png, id=2, 289.08pt x 252.945pt>
-File: ../images/Problem1_p0_01.png Graphic file (type png)
-<use ../images/Problem1_p0_01.png>
-Package pdftex.def Info: ../images/Problem1_p0_01.png  used on input line 3. on
- input line 3.
-Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
-e 3.
-
 [1
 
-{C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../imag
-es/Problem1_p0_1.png>]
-<../images/Problem1_p0_001.png, id=12, 289.08pt x 252.945pt>
+{C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<../images/Problem1_p0_1.png, id=11, 289.08pt x 252.945pt>
+File: ../images/Problem1_p0_1.png Graphic file (type png)
+<use ../images/Problem1_p0_1.png>
+Package pdftex.def Info: ../images/Problem1_p0_1.png  used on input line 54. on
+ input line 54.
+Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
+e 54.
+<../images/Problem1_p0_1_lm.png, id=12, 216.81pt x 189.5883pt>
+File: ../images/Problem1_p0_1_lm.png Graphic file (type png)
+<use ../images/Problem1_p0_1_lm.png>
+Package pdftex.def Info: ../images/Problem1_p0_1_lm.png  used on input line 56.
+ on input line 56.
+Package pdftex.def Info: Requested size: 216.80946pt x 189.58783pt on input lin
+e 56.
+
+[2 <../images/Problem1_p0_1.png>]
+<../images/Problem1_p0_01.png, id=17, 289.08pt x 252.945pt>
+File: ../images/Problem1_p0_01.png Graphic file (type png)
+<use ../images/Problem1_p0_01.png>
+Package pdftex.def Info: ../images/Problem1_p0_01.png  used on input line 58. o
+n input line 58.
+Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
+e 58.
+<../images/Problem1_p0_01_lm.png, id=18, 216.81pt x 189.5883pt>
+File: ../images/Problem1_p0_01_lm.png Graphic file (type png)
+<use ../images/Problem1_p0_01_lm.png>
+Package pdftex.def Info: ../images/Problem1_p0_01_lm.png  used on input line 60
+. on input line 60.
+Package pdftex.def Info: Requested size: 216.80946pt x 189.58783pt on input lin
+e 60.
+ [3 <../images/Problem1_p0_1_lm.png> <../images/Problem1_p0_01.png>]
+<../images/Problem1_p0_001.png, id=24, 289.08pt x 252.945pt>
 File: ../images/Problem1_p0_001.png Graphic file (type png)
 <use ../images/Problem1_p0_001.png>
-Package pdftex.def Info: ../images/Problem1_p0_001.png  used on input line 5. o
-n input line 5.
+Package pdftex.def Info: ../images/Problem1_p0_001.png  used on input line 62. 
+on input line 62.
 Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
-e 5.
-) (problem2.tex [2 <../images/Problem1_p0_01.png> <../images/Problem1_p0_001.pn
-g>] [3]) (problem3.tex) (problem4.tex [4])
-(problem5.tex) (problem6.tex
-<../images/Problem6_10^1.png, id=30, 144.54pt x 126.4725pt>
+e 62.
+<../images/Problem1_p0_001_lm.png, id=25, 216.81pt x 189.5883pt>
+File: ../images/Problem1_p0_001_lm.png Graphic file (type png)
+<use ../images/Problem1_p0_001_lm.png>
+Package pdftex.def Info: ../images/Problem1_p0_001_lm.png  used on input line 6
+4. on input line 64.
+Package pdftex.def Info: Requested size: 216.80946pt x 189.58783pt on input lin
+e 64.
+) [4 <../images/Problem1_p0_01_lm.png> <../images/Problem1_p0_001.png>] (proble
+m2.tex [5 <../images/Problem1_p0_001_lm.png>])
+(problem3.tex) [6] (problem4.tex [7]) (problem5.tex) (problem6.tex
+<../images/Problem6_10^1.png, id=46, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^1.png Graphic file (type png)
 <use ../images/Problem6_10^1.png>
 Package pdftex.def Info: ../images/Problem6_10^1.png  used on input line 1. on 
 input line 1.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 1.
-<../images/Problem6_10^2.png, id=31, 144.54pt x 126.4725pt>
+<../images/Problem6_10^2.png, id=47, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^2.png Graphic file (type png)
 <use ../images/Problem6_10^2.png>
 Package pdftex.def Info: ../images/Problem6_10^2.png  used on input line 2. on 
 input line 2.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 2.
- [5]
-<../images/Problem6_10^3.png, id=35, 144.54pt x 126.4725pt>
+<../images/Problem6_10^3.png, id=48, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^3.png Graphic file (type png)
 <use ../images/Problem6_10^3.png>
 Package pdftex.def Info: ../images/Problem6_10^3.png  used on input line 4. on 
 input line 4.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 4.
-<../images/Problem6_10^4.png, id=36, 144.54pt x 126.4725pt>
+<../images/Problem6_10^4.png, id=49, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^4.png Graphic file (type png)
 <use ../images/Problem6_10^4.png>
 Package pdftex.def Info: ../images/Problem6_10^4.png  used on input line 5. on 
 input line 5.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 5.
-<../images/Problem6_10^5.png, id=37, 144.54pt x 126.4725pt>
+<../images/Problem6_10^5.png, id=50, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^5.png Graphic file (type png)
 <use ../images/Problem6_10^5.png>
 Package pdftex.def Info: ../images/Problem6_10^5.png  used on input line 7. on 
 input line 7.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 7.
-<../images/Problem6_10^6.png, id=38, 144.54pt x 126.4725pt>
+<../images/Problem6_10^6.png, id=51, 144.54pt x 126.4725pt>
 File: ../images/Problem6_10^6.png Graphic file (type png)
 <use ../images/Problem6_10^6.png>
 Package pdftex.def Info: ../images/Problem6_10^6.png  used on input line 8. on 
 input line 8.
 Package pdftex.def Info: Requested size: 144.53963pt x 126.47218pt on input lin
 e 8.
-<../images/Problem6_average_max.png, id=39, 289.08pt x 252.945pt>
+ [8 <../images/Problem6_10^1.png> <../images/Problem6_10^2.png> <../images/Prob
+lem6_10^3.png> <../images/Problem6_10^4.png>]
+<../images/Problem6_average_max.png, id=59, 289.08pt x 252.945pt>
 File: ../images/Problem6_average_max.png Graphic file (type png)
 <use ../images/Problem6_average_max.png>
 Package pdftex.def Info: ../images/Problem6_average_max.png  used on input line
  10. on input line 10.
 Package pdftex.def Info: Requested size: 289.07928pt x 252.94438pt on input lin
 e 10.
-) [6 <../images/Problem6_10^1.png> <../images/Problem6_10^2.png> <../images/Pro
-blem6_10^3.png> <../images/Problem6_10^4.png> <../images/Problem6_10^5.png> <..
-/images/Problem6_10^6.png>] [7 <../images/Problem6_average_max.png>] (main.aux)
- ) 
+) [9 <../images/Problem6_10^5.png> <../images/Problem6_10^6.png> <../images/Pro
+blem6_average_max.png>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 2703 strings out of 493312
- 36775 string characters out of 3138886
+ 2718 strings out of 493312
+ 37267 string characters out of 3138886
  100973 words of memory out of 3000000
- 6192 multiletter control sequences out of 15000+200000
+ 6204 multiletter control sequences out of 15000+200000
  8408 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,554b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (7 pages, 209724 bytes).
+ 41i,7n,25p,747b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (9 pages, 250823 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

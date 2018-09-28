@@ -86,27 +86,42 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
 INPUT problem1.tex
 INPUT problem1.tex
-INPUT ../images/Problem1_p0_1.png
-INPUT ../images/Problem1_p0_1.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.pdf
-INPUT ../images/Problem1_p0_1.png
-INPUT ../images/Problem1_p0_1.png
-INPUT ../images/Problem1_p0_1.png
-INPUT ../images/Problem1_p0_01.png
-INPUT ../images/Problem1_p0_01.png
-INPUT ../images/Problem1_p0_01.png
-INPUT ../images/Problem1_p0_01.png
-INPUT ../images/Problem1_p0_01.png
 INPUT C:/Users/IBM_ADMIN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1.png
+INPUT ../images/Problem1_p0_1_lm.png
+INPUT ../images/Problem1_p0_1_lm.png
+INPUT ../images/Problem1_p0_1_lm.png
+INPUT ../images/Problem1_p0_1_lm.png
+INPUT ../images/Problem1_p0_1_lm.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01.png
+INPUT ../images/Problem1_p0_01_lm.png
+INPUT ../images/Problem1_p0_01_lm.png
+INPUT ../images/Problem1_p0_01_lm.png
+INPUT ../images/Problem1_p0_01_lm.png
+INPUT ../images/Problem1_p0_01_lm.png
 INPUT ../images/Problem1_p0_001.png
 INPUT ../images/Problem1_p0_001.png
 INPUT ../images/Problem1_p0_001.png
 INPUT ../images/Problem1_p0_001.png
 INPUT ../images/Problem1_p0_001.png
+INPUT ../images/Problem1_p0_001_lm.png
+INPUT ../images/Problem1_p0_001_lm.png
+INPUT ../images/Problem1_p0_001_lm.png
+INPUT ../images/Problem1_p0_001_lm.png
+INPUT ../images/Problem1_p0_001_lm.png
 INPUT problem2.tex
 INPUT problem2.tex
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT problem3.tex
 INPUT problem3.tex
 INPUT problem4.tex
